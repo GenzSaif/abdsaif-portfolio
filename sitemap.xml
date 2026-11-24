@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+  <url>
+    <loc>https://abdsaif.is-a.bot/</loc>
+    <lastmod>2026-11-24</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>1.0</priority>
+    <image:image>
+      <image:loc>https://abdsaif.is-a.bot/abdullah-saif-shojib.jpg</image:loc>
+      <image:title>Abdullah Saif Sojib, also spelled Saif Shojib — graphic designer from Kulaura, Bangladesh</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://abdsaif.is-a.bot/abdullah-saif-shojib-bangladesh.jpg</image:loc>
+      <image:title>Abdullah Saif Sojib, also spelled Saif Shojib, from Kulaura, Bangladesh</image:title>
+    </image:image>
+  </url>
+</urlset>
